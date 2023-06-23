@@ -16,6 +16,7 @@ public class LatihanAlpro2 {
      */
     public static void main(String[] args) {
         System.out.println("HALO");
+        System.out.println("INI LOGIN");
         // TODO code application logic here
     }
     
